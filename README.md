@@ -1,14 +1,14 @@
-# Portafolio de Evidencias - Unidad 1
+# Portafolio de Evidencias - Unidad 2
 
 ## Arquitectura de Computadoras
 
-**Alumno:** Virginia Rosalía Can Xool  
-**Semestre y grupo:** 5B  
-**Materia:** Arquitectura de Computadoras  
-**Docente:** Gabriel Ubaldo González Cauich  
-**Unidad:** 2 
-**Actividad:** Portafolio de Evidencias  
-**Período:** 2026-B  
+**Alumno:** Virginia Rosalía Can Xool.  
+**Semestre y grupo:** 5B.  
+**Materia:** Arquitectura de Computadoras.  
+**Docente:** Gabriel Ubaldo González Cauich.  
+**Unidad:** 2. 
+**Actividad:** Portafolio de Evidencias.  
+**Período:** 2026-B.  
 
 **Motul, Yucatán, México; 20 de octubre de 2026**
 
@@ -17,10 +17,8 @@
 # Introducción
 
 En este portafolio se presentan las actividades que realicé durante la unidad 2 de la materia de Arquitectura de Computadoras. A lo largo de este parcial, pude ampliar mis conocimientos sobre el funcionamiento del procesador, los registros y los modos de operación, así como comprender mejor algunos de los elementos que forman parte de la arquitectura de una computadora.
-
 Las tareas realizadas me permitieron estudiar y comprender diferentes conceptos relacionados con los temas vistos durante la unidad, reforzando los conocimientos adquiridos mediante las actividades y ejercicios realizados en clase.
-
-Además de presentar las evidencias, este portafolio incluye una reflexión personal sobre los aprendizajes obtenidos, las dificultades que se presentaron durante las actividades y algunas propuestas de mejora. De esta manera, no solamente se muestran los trabajos realizados, sino también el proceso de aprendizaje que tuve durante este parcial.
+Además de presentar las evidencias, este portafolio incluye una reflexión personal sobre los aprendizajes obtenidos, las dificultades que se presentaron durante las actividades y algunas propuestas de mejora.
 
 ---
 
@@ -34,10 +32,11 @@ El objetivo de este portafolio es mostrar las actividades realizadas durante la 
 
 1. [Ejercicios de clase](#1-ejercicios-de-clase)
 2. [Questions and problems](#2-questions-and-problems)
-3. [Ejercicio 2 de clase](#3-ejercicio-2-de-clase)
+3. [Ejercicios de clase: Modo de direccionamiento](#3-ejercicios-de-clase-modos-de-direccionamiento)
 4. [Presentación por equipos](#4-presentación-por-equipos)
-5. [Reflexión general del parcial](#reflexión-general-del-parcial)
-6. [Conclusión](#conclusión)
+5. [Ejercicios de modo de direccionamiento](#5-ejercicios-de-modo-de-direccionamiento)
+6. [Reflexión general del parcial](#reflexión-general-del-parcial)
+7. [Conclusión](#conclusión)
 
 ---
 
@@ -50,9 +49,9 @@ Estos ejercicios fueron los primeros que realizamos durante el parcial y se llev
 
 ## Evidencia
 
-![Prueba diagnóstica](Diagnostico-1.jpeg)
+![Ejercicios de clase](ejercicios-1.jpeg)
 
-![Prueba diagnóstica](Diagnostico-2.jpeg)
+![Ejercicios de clase](ejercicios-2.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -74,13 +73,23 @@ La tarea se enfocó principalmente en el estudio de los registros del procesador
 
 ## Evidencias
 
-### Programa para sumar dos números
+![Questions and problems](qap-1.jpeg)
 
-![Programa IAS - suma](IAS-1.jpeg)
+![Questions and problems](qap-2.jpeg)
 
-### Programa para comparar dos números
+![Questions and problems](qap-3.jpeg)
 
-![Programa IAS - comparación](IAS-2.jpeg)
+![Questions and problems](qap-4.jpeg)
+
+![Questions and problems](qap-5.jpeg)
+
+![Questions and problems](qap-6.jpeg)
+
+![Questions and problems](qap-7.jpeg)
+
+![Questions and problems](qap-8.jpeg)
+
+![Questions and problems](qap-9.jpeg)
 
 
 ## ¿Qué aprendí?
@@ -94,21 +103,17 @@ Para mejorar, yo considero importante leer la información del libro, organizar 
 
 ---
 
-# 3. Ejercicio 2 de clase 
+# 3. Ejercicios de clase: modos de direccionamiento 
 
 ## Descripción de la actividad
 
-Esta actividad consistió en realizar ejercicios en clase sobre los modos de direccionamiento, utilizando principalmente instrucciones MOV en lenguaje ensamblador. Al igual que en la primera actividad, los ejercicios se resolvieron en plenaria con la ayuda del profesor, quien explicó cada uno de los modos de direccionamiento y la manera en que se utilizan. En total, se trabajaron ocho modos de direccionamiento, cuya complejidad aumentaba progresivamente. Conforme avanzábamos, se incorporaban operaciones con valores hexadecimales para comprender mejor cómo se manejan los datos y las direcciones en cada caso. Esta actividad permitió practicar los procedimientos explicados en clase y reconocer las diferencias entre los distintos modos de direccionamiento.
+Esta actividad consistió en realizar ejercicios en clase sobre los modos de direccionamiento, utilizando principalmente instrucciones MOV en lenguaje ensamblador. Al igual que en la primera actividad, los ejercicios se resolvieron en plenaria con la ayuda del profesor, quien explicó cada uno de los modos de direccionamiento y la manera en que se utilizan. En total, se trabajaron ocho modos de direccionamiento, cuya complejidad aumentaba progresivamente. Conforme avanzábamos, se incorporaban operaciones con valores hexadecimales para comprender mejor cómo se manejan los datos y las direcciones en cada caso. Esta actividad me permitió practicar los procedimientos explicados en clase y reconocer las diferencias entre los distintos modos de direccionamiento.
 
 ## Evidencia
 
-![Mapa conceptual](Mapa-Conceptual-1.jpeg)
+![Modos de direccionamiento](Modo-1.jpeg)
 
-![Mapa conceptual](Mapa-Conceptual-2.jpeg)
-
-![Mapa conceptual](Mapa-Conceptual-3.jpeg)
-
-![Mapa conceptual](Mapa-Conceptual-4.jpeg)
+![Modos de direccionamiento](Modo-2.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -124,57 +129,98 @@ Uno de los aspectos que necesito tratar de mejorar es la identificación de los 
 
 ## Descripción de la actividad
 
-En esta actividad trabajé en equipo con mis compañeros utilizando una memoria RAM estática 6116. Para esta práctica utilizamos dos protoboard, la memoria RAM 6116, circuitos integrados, un display, dipswitchs, resistencias, leds, botones push botton y cables.
-Primero comenzamos armando el circuito tomando como referencia las imágenes que nos había proporcionado el maestro. Como equipo nos enfocamos principalmente en seguir la forma en la que estaban conectados los componentes, pero no analizamos completamente la función de cada conexión. Al terminar el armado, el circuito no funcionó como esperábamos y los datos no se podían leer correctamente.
-Después revisamos nuevamente las conexiones y comparamos nuestro circuito con los de otros compañeros para intentar encontrar el error. Como equipo no logramos identificarlo, así que se decidió desarmar el circuito y comenzar nuevamente desde cero. Esta vez utilizando un diagrama como referencia y se revisó con más cuidado la forma en que debían conectarse los componentes.
-Al volver a realizar el circuito y cargar los datos, logramos que este realizara las operaciones de escritura y lectura. Pero, durante este proceso algunos leds del display se dañaron, por lo que tuvimos que reemplazarlos. Finalmente, después de corregir las conexiones y realizar las pruebas necesarias, conseguimos que la práctica funcionara correctamente para poder entregarla al maestro y pueda evaluarla. Al momento de la entrega, el nos fue proporcionando a cada integrante del equipo, las direcciones y datos que debíamos insertar, para que luego de eso, cada quien pudiera dar lectura a esos mismos dato. Al final, logramos hacer correctamente lo mencionado anteriormente, aunque algunos del equipo al principio tuvieron un poco de dificultad.
+En esta actividad trabajé en equipo con mis compañeros para realizar una presentación sobre un modo de direccionamiento asignado por el profesor. A mi equipo y a mí nos correspondió el modo 2, conocido como modo de direccionamiento inmediato. Durante la presentación explicamos en qué consiste este modo, sus principales características y algunos ejemplos para facilitar su comprensión.
+Al finalizar la exposición frente al grupo, realizamos unas preguntas de retroalimentación para comprobar si nuestros compañeros habían comprendido el tema y reforzar los conocimientos explicados. Esta actividad nos permitió investigar, organizar la información y trabajar en equipo para explicar el tema de una manera clara. 
 
 ## Evidencia
 
-![Reporte RAM 6116](Reporte1.jpg)
+![Pesentación](diapositiva1.png)
 
-![Reporte RAM 6116](Reporte2.jpg)
+![Pesentación](diapositiva2.png)
 
-![Reporte RAM 6116](Reporte3.jpg)
+![Pesentación](diapositiva3.png)
 
-![Reporte RAM 6116](Reporte4.jpg)
+![Pesentación](diapositiva4.png)
 
-![Reporte RAM 6116](Reporte5.jpg)
+![Pesentación](diapositiva5.png)
 
-![Reporte RAM 6116](Reporte6.jpg)
+![Pesentación](diapositiva6.png)
 
-![Reporte RAM 6116](Reporte8.jpg)
+![Pesentación](diapositiva7.png)
 
-![Reporte RAM 6116](Reporte9.jpg)
+![Pesentación](diapositiva8.png)
+
+![Pesentación](diapositiva9.jpeg)
 
 ## ¿Qué aprendí?
 
-Esta práctica me permitió comprender como es que se pueden leer y escribir datos en una memoria RAM. También tuve que aprender que al trabajar con circuitos digitales no es suficiente con observar una imagen y tratar de copiar las conexiones. Se necesita comprender la función de cada componente, revisar las conexiones y utilizar un diagrama como base.
-Algo muy significativo que me dejó esta actividad es que no siempre porque un circuito se vea igual a un ejemplo o se vea estético significa que está correctamente armado y sea funcional. Es necesario ver las conexiones y revisar la información de los componentes para poder identificar en dónde está el problema. Además, trabajar en equipo nos permitió apoyarnos entre nosotros para encontrar una solución.
+Con esta actividad aprendí en qué consiste el modo de direccionamiento inmediato y cómo se utiliza en el lenguaje ensamblador. Comprendí que, en este modo, el dato que se va a utilizar se encuentra directamente en la instrucción, por lo que no es necesario buscarlo en otra dirección de memoria. También aprendí a identificar sus características mediante los ejemplos que incluimos en la presentación.
+Además, esta actividad me ayudó a mejorar mi capacidad para explicar un tema frente al grupo. Al trabajar en equipo, comprendí la importancia de colaborar bien con mis compañeros y poder preparar el contenido de manera que los demás pudieran entenderlo fácilmente.
 
 ## Errores y aspectos por mejorar
 
-Como ya había comentado, el principal error fue comenzar a armar el circuito basándonos principalmente en la apariencia de las fotografías, sin comprender primero cómo estaban relacionadas los cables con los integrados y las conexiones. Cuando el circuito no funcionó, perdimos tiempo revisando los componentes y comparándolos con los de otros equipos sin encontrar el problema.
-También tuvimos el inconveniente de que algunos leds del display se dañaron durante la práctica al estarlo probando constantemente y de una mala manera. Para mejorar, hay que considerar que debemos revisar o hacer primero un diagrama de lo que vayamos a hacer antes de comenzar a conectar las cosas, además de comprobar las conexiones una por una. Como equipo también debemos comunicarnos mejor y revisar entre todos cada parte del circuito antes de ponerlo en funcionamiento.
+Considero que uno de los aspectos que puedo mejorar es la forma de explicar el tema frente al grupo, ya que a veces cre que no basta con tener la información en las diapositivas, sino que también es importante saber y poder explicarla con nuestras propias palabras. También podría mejorar los ejemplos para que sean más fáciles de entender y ayuden a mis compañeros a comprender mejor el modo de direccionamiento inmediato.
 
 ---
 
+# 5. Ejercicios de modo de direccionamiento
+
+## Descripción de la actividad
+
+Para realizar estos ejercicios, tuve que consultar el material proporcionado por el profesor, específicamente el capítulo 3, titulado Modos de direccionamiento de datos. Las actividades estuvieron relacionadas con los temas del capítulo 2, ya que también se trabajó con los registros del procesador y sus funciones.
+Los ejercicios se enfocaron en los diferentes modos de direccionamiento y en el uso de instrucciones en lenguaje ensamblador, principalmente la instrucción MOV, que permite transferir datos entre registros, memoria y valores inmediatos. Mediante esta actividad, pude practicar los conceptos estudiados en clase y reforzar mis conocimientos sobre la forma en que se manejan los datos en el procesador 
+
+## Evidencia
+
+![Ejercicios de modo de direccionamiento](M1.jpg)
+
+![Ejercicios de modo de direccionamiento](M2.jpg)
+
+![Ejercicios de modo de direccionamiento](M3.jpg)
+
+![Ejercicios de modo de direccionamiento](M4.jpg)
+
+![Ejercicios de modo de direccionamiento](M5.jpg)
+
+![Ejercicios de modo de direccionamiento](M6.jpg)
+
+![Ejercicios de modo de direccionamiento](M7.jpg)
+
+![Ejercicios de modo de direccionamiento](M8.jpg)
+
+![Ejercicios de modo de direccionamiento](M9.jpg)
+
+![Ejercicios de modo de direccionamiento](M10.jpg)
+
+![Ejercicios de modo de direccionamiento](M11.jpg)
+
+![Ejercicios de modo de direccionamiento](M12.jpg)
+
+## ¿Qué aprendí?
+
+Con esta actividad aprendí más sobre los diferentes modos de direccionamiento y cómo se utilizan junto con la instrucción MOV en lenguaje ensamblador. También comprendí que los registros tienen un papel importante al trabajar con estas instrucciones, ya que permiten almacenar y transferir datos durante su ejecución.
+Además, pude relacionar los temas de los capítulos 2 y 3, lo que me ayudó a entender mejor cómo se complementan los registros y los modos de direccionamiento. Aunque algunos ejercicios pueden resultar confusos al principio, considero que practicarlos me ayuda a identificar las diferencias entre cada modo y a resolverlos con mayor facilidad
+
+## Errores y aspectos por mejorar
+
+Uno de los aspectos que necesito mejorar es identificar con mayor facilidad los diferentes modos de direccionamiento y saber cómo aplicar la instrucción MOV en cada caso. Algunos ejercicios pueden resultar confusos porque, aunque utilizan la misma instrucción, la forma de acceder a los datos cambia dependiendo del modo que se esté utilizando.
+Para mejorar, considero que debo repasar los ejemplos del material proporcionado por el profesor y practicar más ejercicios por mi cuenta.
+
+---
+
+
 # Reflexión general del parcial
 
-Durante esta unidad pude conocer diferentes temas de la asignatura y poco a poco relacionarlos con las actividades que fuimos realizando. Cada actividad me permitió aprender algo diferente y también darme cuenta de cuáles eran los temas que todavía necesito comprender mejor.
-La prueba diagnóstica me permitió reconocer mis pocos conocimientos que tenía al principio. Después, con la tarea de la programación de la IAS, pude trabajar con instrucciones, posiciones de memoria y operaciones.
-El mapa conceptual me ayudó a organizar y relacionar los diferentes modelos de arquitectura de cómputo. Al final, al realizar la práctica de la memoria RAM 6116 pude observar como algunos de estos conocimientos nuevos que adquirí van de la mano con el circuito físico.
-Uno de los aprendizajes más importantes para mí, fue comprender que no siempre es suficiente seguir instrucciones de manera visual. En la práctica de la RAM 6116, primero fue necesario comprender lo que se está haciendo, revisar las conexiones y utilizar diagramas para poder detectar errores.
-También  tuve que aprender que cometer errores durante una práctica puede ayudar a comprender mejor el tema, siempre y cuando yo analice qué fue lo que salió mal y cómo le puedo dar solución a eso.
+Durante este parcial aprendí nuevos conceptos relacionados con la arquitectura de computadoras, especialmente sobre los registros del procesador, las direcciones de memoria y los modos de direccionamiento. Al principio, algunos temas me resultaron un poco difíciles, ya que necesitaba comprender cómo se relacionaban entre sí y cómo aplicar los procedimientos en los ejercicios. Sin embargo, las explicaciones del profesor, las actividades en clase y las consultas del material de apoyo me ayudaron a entenderlos mejor.
+También me di cuenta de que no basta con buscar información o memorizar definiciones, sino que es importante comprender los conceptos para poder utilizarlos al resolver ejercicios. La actividad en equipo me permitió compartir ideas con mis compañeros y aprender a explicar un tema de manera más clara. Aunque todavía hay aspectos que necesito mejorar, considero que he avanzado en mi aprendizaje y que tengo una mejor idea de cómo funciona el procesador y cómo maneja los datos.
+Para el siguiente parcial, me gustaría organizar mejor mi tiempo, repasar los temas después de cada clase y practicar más los ejercicios por mi cuenta. Considero que esto me ayudará a tener menos dudas, evitar errores y comprender mejor los temas más complejos de la asignatura. En general, este parcial me permitió reconocer lo que he aprendido y los aspectos en los que todavía necesito esforzarme para seguir mejorando.
 
 ---
 
 # Conclusión
 
-Al finalizar este parcial 1 considero que pude obtener una mejor comprensión de algunos elementos fundamentales de la arquitectura de computadoras.
-Las actividades ralizadas fueron diferentes entre sí, pero todas me ayudaron a reforzar algo de los conocimientos de la unidad. La programación de la IAS  me permitió comprender el uso de instrucciones y memoria, mientras que el mapa conceptual me ayudó a relacionar los diferentes modelos de arquitectura de cómputo.
-La práctica de la memoria RAM 6116 fue especialmente útil porque permitió comprobar algunos conceptos que anteriormente se habían visto en la clase de manera teórica.
-En conclusión, este parcial me permitió identificar algunos aspectos que debo mejorar, principalmente la forma de analizar los problemas antes de comenzar a trabajar y lo importante que es revisar cuidadosamente los procedimientos y conexiones en un circuito.
+En conclusión, este parcial me permitió adquirir nuevos conocimientos sobre la arquitectura de computadoras y comprender mejor algunos de los elementos que intervienen en el funcionamiento del procesador. A través de las actividades realizadas, aprendí sobre los registros, las direcciones de memoria y los modos de direccionamiento, también la importancia de utilizar correctamente las instrucciones en lenguaje ensamblador.
+Además, pude reconocer las dificultades que tuve durante el parcial y los aspectos que necesito mejorar para seguir avanzando bien. Considero que la práctica y el repaso constante son fundamentales para comprender mejor los temas y poder aplicar lo aprendido en diferentes ejercicios. Este portafolio no solo me permitió reunir las evidencias de mi trabajo, sino también reflexionar sobre mi desempeño y reconocer que todavía tengo conocimientos por reforzar. 
 
 ---
 
