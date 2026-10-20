@@ -29,18 +29,25 @@ El objetivo de este portafolio es mostrar las actividades realizadas durante la 
 ---
 
 # Índice
+1. [Rúbrica del portafolio U1](#1-rubrica-del-portafolio-U1)
+2. [Ejercicios de clase](#2-ejercicios-de-clase)
+3. [Questions and problems](#3-questions-and-problems)
+4. [Ejercicios de clase: Modo de direccionamiento](#4-ejercicios-de-clase-modos-de-direccionamiento)
+5. [Presentación por equipos](#5-presentación-por-equipos)
+6. [Ejercicios de modo de direccionamiento](#6-ejercicios-de-modo-de-direccionamiento)
+7. [Reflexión general del parcial](#reflexión-general-del-parcial)
+8. [Conclusión](#conclusión)
 
-1. [Ejercicios de clase](#1-ejercicios-de-clase)
-2. [Questions and problems](#2-questions-and-problems)
-3. [Ejercicios de clase: Modo de direccionamiento](#3-ejercicios-de-clase-modos-de-direccionamiento)
-4. [Presentación por equipos](#4-presentación-por-equipos)
-5. [Ejercicios de modo de direccionamiento](#5-ejercicios-de-modo-de-direccionamiento)
-6. [Reflexión general del parcial](#reflexión-general-del-parcial)
-7. [Conclusión](#conclusión)
+---
+# 1. Rúbrica del portafolio U1
+
+## Evidencia
+
+![Rubrica portafolio U1](rubricaU1.jpeg)
 
 ---
 
-# 1. Ejercicios de clase
+# 2. Ejercicios de clase
 
 ## Descripción de la actividad
 
@@ -64,7 +71,7 @@ Uno de los aspectos que considero que debo mejorar durante esta actividad es la 
 
 ---
 
-# 2. Questions and problems
+# 3. Questions and problems
 
 ## Descripción de la actividad
 
@@ -103,7 +110,7 @@ Para mejorar, yo considero importante leer la información del libro, organizar 
 
 ---
 
-# 3. Ejercicios de clase: modos de direccionamiento 
+# 4. Ejercicios de clase: modos de direccionamiento 
 
 ## Descripción de la actividad
 
@@ -125,7 +132,7 @@ Uno de los aspectos que necesito tratar de mejorar es la identificación de los 
 
 ---
 
-# 4. Presentación por equipos
+# 5. Presentación por equipos
 
 ## Descripción de la actividad
 
@@ -163,7 +170,7 @@ Considero que uno de los aspectos que puedo mejorar es la forma de explicar el t
 
 ---
 
-# 5. Ejercicios de modo de direccionamiento
+# 6. Ejercicios de modo de direccionamiento
 
 ## Descripción de la actividad
 
