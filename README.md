@@ -49,9 +49,9 @@ Estos ejercicios fueron los primeros que realizamos durante el parcial y se llev
 
 ## Evidencia
 
-![Ejercicios de clase](ejercicios-1.jpeg)
+![Ejercicios de clase](Ejercicios-1.jpeg)
 
-![Ejercicios de clase](ejercicios-2.jpeg)
+![Ejercicios de clase](Ejercicios-2.jpeg)
 
 ## ¿Qué aprendí?
 
@@ -172,29 +172,29 @@ Los ejercicios se enfocaron en los diferentes modos de direccionamiento y en el 
 
 ## Evidencia
 
-![Ejercicios de modo de direccionamiento](M1.jpg)
+![Ejercicios de modo de direccionamiento](M1.jpeg)
 
-![Ejercicios de modo de direccionamiento](M2.jpg)
+![Ejercicios de modo de direccionamiento](M2.jpeg)
 
-![Ejercicios de modo de direccionamiento](M3.jpg)
+![Ejercicios de modo de direccionamiento](M3.jpeg)
 
-![Ejercicios de modo de direccionamiento](M4.jpg)
+![Ejercicios de modo de direccionamiento](M4.jpeg)
 
-![Ejercicios de modo de direccionamiento](M5.jpg)
+![Ejercicios de modo de direccionamiento](M5.jpeg)
 
-![Ejercicios de modo de direccionamiento](M6.jpg)
+![Ejercicios de modo de direccionamiento](M6.jpeg)
 
-![Ejercicios de modo de direccionamiento](M7.jpg)
+![Ejercicios de modo de direccionamiento](M7.jpeg)
 
-![Ejercicios de modo de direccionamiento](M8.jpg)
+![Ejercicios de modo de direccionamiento](M8.jpeg)
 
-![Ejercicios de modo de direccionamiento](M9.jpg)
+![Ejercicios de modo de direccionamiento](M9.jpeg)
 
-![Ejercicios de modo de direccionamiento](M10.jpg)
+![Ejercicios de modo de direccionamiento](M10.jpeg)
 
-![Ejercicios de modo de direccionamiento](M11.jpg)
+![Ejercicios de modo de direccionamiento](M11.jpeg)
 
-![Ejercicios de modo de direccionamiento](M12.jpg)
+![Ejercicios de modo de direccionamiento](M12.jpeg)
 
 ## ¿Qué aprendí?
 
